@@ -1,0 +1,2 @@
+Prefix plugins/MergeClusters/example/
+Plugin MergeClusters inputfile parameters.mergeclusters.txt outputfile Merged.rds
